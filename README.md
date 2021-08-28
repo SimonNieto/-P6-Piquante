@@ -4,6 +4,8 @@ Clonez https://github.com/t1k459/SimonNieto_6_30072021.git sur votre ordinateur.
 
 Exécuter npm install
 
-Exécuter ng serve 
+Exécuter node server
+
+Exécuter npm start
 
 Exécution de l’API sur http://localhost:3000
