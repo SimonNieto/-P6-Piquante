@@ -1,6 +1,6 @@
 Construisez une API sécurisée pour une application d'avis gastronomiques
 
-Clonez https://github.com/t1k459/SimonNieto_6_30072021.git sur votre ordinateur.
+Clonez https://github.com/SimonNieto/-P6-Piquante.git sur votre ordinateur.
 
 Exécuter npm install
 
